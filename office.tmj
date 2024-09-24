@@ -4188,14 +4188,24 @@
                                                  "value": true
                                           },
                                           {
+                                                 "name": "jitsiConfig",
+                                                 "type": "string",
+                                                 "value": "{ \"startWithAudioMuted\": true }"
+                                          },
+                                          {
                                                  "name": "jitsiRoom",
                                                  "type": "string",
                                                  "value": "MeetingRoom"
                                           },
                                           {
-                                                 "name": "jitsiTrigger",
+                                                 "name": "jitsiRoomAdminTag",
                                                  "type": "string",
-                                                 "value": ""
+                                                 "value": "XP"
+                                          },
+                                          {
+                                                 "name": "openWebsiteClosable",
+                                                 "type": "string",
+                                                 "value": "false"
                                           },
                                           {
                                                  "name": "zoom_margin",
