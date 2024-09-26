@@ -3,8 +3,7 @@
     {
      "export":
         {
-         "format":"json",
-         "target":"office.tmj"
+         "format":"json"
         }
     },
  "height":20,
@@ -371,6 +370,11 @@
                          "value":"{ \"startWithAudioMuted\": true , \"startWithfullscreenmode\": true }"
                         }, 
                         {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DISABLE_JOIN_LEAVE_NOTIFICATIONS\": true , \"HIDE_INVITE_MORE_HEADER\": true}"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -393,7 +397,7 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":635.175777080001,
+                 "width":636.18,
                  "x":2.08494810709237,
                  "y":1.84540474741328
                 }],
@@ -436,11 +440,6 @@
          "name":"mapName",
          "type":"string",
          "value":"Office"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
