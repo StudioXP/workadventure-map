@@ -35,7 +35,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0],
+            0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":26,
          "id":6,
          "name":"start",
@@ -181,7 +181,7 @@
                     572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572,
                     572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572,
                     572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572, 572,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 2714, 2714, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 651, 651, 651, 651, 651, 651, 651, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 651, 651, 651, 651, 651, 651, 651, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 651, 651, 651, 651, 651, 651, 651, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -468,10 +468,11 @@
                  "rotation":0,
                  "text":
                     {
+                     "bold":true,
                      "fontfamily":"Gilroy",
                      "halign":"center",
                      "pixelsize":12,
-                     "text":"Bienvenu au cours d'essai Studio XP !\n\nPour rejoindre votre salle de classe qui se situe au dessus, veuillez utiliser les fl\u00e8ches de votre clavier et installez-vous \u00e0 une table.\n\nVotre cours commencera \u00e0 l'heure indiqu\u00e9e sur le courriel.\n\nBon cours !",
+                     "text":"Bienvenue au cours d'essai Studio XP !\n\nPour rejoindre votre salle de classe qui se situe au-dessus, veuillez utiliser les fl\u00e8ches de votre clavier afin de vous installer \u00e0 une table.\n\nVotre cours commencera \u00e0 l'heure indiqu\u00e9e sur le courriel.\n\nBon cours !",
                      "valign":"center",
                      "wrap":true
                     },
@@ -480,6 +481,24 @@
                  "width":400,
                  "x":121.94,
                  "y":652.472512384583
+                }, 
+                {
+                 "height":50,
+                 "id":29,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Gilroy",
+                     "pixelsize":9,
+                     "text":"Si vous n'entendez pas le professeur, actualiser la page internet avec la touche F5.",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":100,
+                 "x":264.67,
+                 "y":62.75
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -498,7 +517,7 @@
          "y":0
         }],
  "nextlayerid":74,
- "nextobjectid":29,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
