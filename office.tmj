@@ -480,10 +480,10 @@
                  "visible":true,
                  "width":400,
                  "x":121.94,
-                 "y":660.47
+                 "y":671.47
                 }, 
                 {
-                 "height":58.9706616106177,
+                 "height":65.97,
                  "id":29,
                  "name":"",
                  "rotation":0,
@@ -502,6 +502,28 @@
                  "width":122.951801217443,
                  "x":258.686764793933,
                  "y":65.7646691946912
+                }, 
+                {
+                 "height":816.285799820377,
+                 "id":30,
+                 "name":"Chat Studio XP",
+                 "properties":[
+                        {
+                         "name":"chatDescription",
+                         "type":"string",
+                         "value":"Rejoignez la discussion avec le prof"
+                        }, 
+                        {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"Chat Studio XP"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":636.663007683864,
+                 "x":0.997904400758388,
+                 "y":12.9727572098593
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -520,7 +542,7 @@
          "y":0
         }],
  "nextlayerid":74,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
