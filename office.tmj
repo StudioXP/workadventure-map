@@ -46,12 +46,12 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"\"MeetingRoom1\""
+                         "value":"\MeetingRoom1\"
                         }, 
                         {
                          "name":"videoQuality",
                          "type":"string",
-                         "value":"\"standard\""
+                         "value":"\standard\"
                         }],
                  "type":"tilelayer",
                  "visible":true,
