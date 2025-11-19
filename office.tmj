@@ -46,12 +46,12 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"\MeetingRoom1\"
+                         "value":"\"MeetingRoom1\""
                         }, 
                         {
                          "name":"videoQuality",
                          "type":"string",
-                         "value":"\standard\"
+                         "value":"\"standard\""
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -411,7 +411,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Une classe pour faire nos cours d'essai !"
+         "value":"A perfect virtual office to get started with WorkAdventure!"
         }, 
         {
          "name":"mapImage",
